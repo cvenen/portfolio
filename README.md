@@ -22,7 +22,7 @@ Defined a custom "success-at-one-pitch" metric and built 8 multilinear regressio
 
 ---
 
-### 🧪 WebAssembly Engine Benchmarking
+### 📂 WebAssembly Engine Benchmarking
 **Software Engineer Research Intern, Carnegie Mellon University REUSE**
 
 Built a full data pipeline and self-serve exploration tool for a WebAssembly benchmarking study, from raw benchmark data to an interactive public-facing dashboard.
